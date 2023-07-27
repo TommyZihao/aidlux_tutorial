@@ -51,7 +51,6 @@
 - 运行Linux命令：
 
 ```shell
-
 ls          # 显示当前目录文件
 
 uname -a    # 查看Linux内核版本
@@ -63,13 +62,11 @@ nproc       # 查看CPU核心数
 free -h     # 显示当前内存使用情况
 
 top         # 查看当前进程、CPU和内存信息，按1和2切换
-
 ```
 
 - 运行Linux命令，安装所需工具包
 
 ```shell
-
 aid install aid-desktop                                                  # 重新安装或升级AidLux桌面
 
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple # pip换源至清华大学开源软件镜像站
@@ -81,7 +78,6 @@ pip install numpy opencv-python matplotlib tqdm                          # 安�
 pip install torch torchvision                                            # 安装pytorch
 
 pip install tensorflow                                                   # 安装tensorflow
-
 ```
 
 ## 第六步：电脑给手机远程传输文件
