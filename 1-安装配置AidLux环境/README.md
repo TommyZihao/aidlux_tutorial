@@ -65,17 +65,17 @@ top         # 查看当前进程、CPU和内存信息，按1和2切换
 
 - 运行Linux命令，安装所需工具包
 
-aid install aid-desktop # 重新安装或升级AidLux桌面
+aid install aid-desktop                                                  # 重新安装或升级AidLux桌面
 
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple # pip换源至清华大学开源软件镜像站
 
-/usr/bin/python3 -m pip install --upgrade pip # 更新pip
+/usr/bin/python3 -m pip install --upgrade pip                            # 更新pip
 
-pip install numpy opencv-python matplotlib tqdm # 安装工具包
+pip install numpy opencv-python matplotlib tqdm                          # 安装工具包
 
-pip install torch torchvision # 安装pytorch
+pip install torch torchvision                                            # 安装pytorch
 
-pip install tensorflow # 安装tensorflow
+pip install tensorflow                                                   # 安装tensorflow
 
 ```
 
