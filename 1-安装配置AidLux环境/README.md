@@ -51,6 +51,7 @@
 - 运行Linux命令：
 
 ```shell
+
 ls          # 显示当前目录文件
 
 uname -a    # 查看Linux内核版本
@@ -63,7 +64,11 @@ free -h     # 显示当前内存使用情况
 
 top         # 查看当前进程、CPU和内存信息，按1和2切换
 
+```
+
 - 运行Linux命令，安装所需工具包
+
+```shell
 
 aid install aid-desktop                                                  # 重新安装或升级AidLux桌面
 
