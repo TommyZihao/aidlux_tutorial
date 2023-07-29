@@ -107,6 +107,8 @@ jupyter notebook --allow-root
 
 - 扩展阅读
 
+AidLux官方文档：https://docs.aidlux.com/#/intro/ai/ai-examples-deploy
+
 Mediapipe Demo：https://mediapipe-studio.webapps.google.com/home
 
 Mediapipe 3D目标检测：https://github.com/google/mediapipe/blob/master/docs/solutions/objectron.md
