@@ -78,6 +78,10 @@ pip install numpy opencv-python matplotlib tqdm                            # 安
 pip install torch torchvision                                              # 安装pytorch
 
 pip install tensorflow                                                     # 安装tensorflow
+
+pip3 install notebook==6.4.12                                              # 安装Jupyter notebook
+
+aid-reboot                                                                 # 重启 AidLux
 ```
 
 ## 第六步：电脑给手机远程传输文件
@@ -87,8 +91,6 @@ pip install tensorflow                                                     # 安
 默认密码：`aidlux`
 
 ## 第七步：安装Jupyter Notebook
-
-应用中心-Jupyter-安装
 
 在命令行中输入
 ```shell
