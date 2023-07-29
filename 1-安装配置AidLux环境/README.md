@@ -81,7 +81,7 @@ pip install tensorflow                                                     # 安
 
 pip3 install notebook==6.4.12                                              # 安装Jupyter notebook
 
-aid-reboot                                                                 # 重启 AidLux
+aid-reboot                                                                 # 重启 AidLux，重启后需重新连接
 ```
 
 ## 第六步：电脑给手机远程传输文件
