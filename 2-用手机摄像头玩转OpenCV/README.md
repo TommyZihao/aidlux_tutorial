@@ -12,7 +12,7 @@
 
 ## 在Jupyter Notebook中运行代码教程
 
-## x使用launch-build添加桌面快捷方式
+## 使用launch-build添加桌面快捷方式
 
 访问路径：http://0.0.0.0:40478
 
