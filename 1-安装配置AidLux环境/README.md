@@ -73,7 +73,7 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple   # pip
 
 /usr/bin/python3 -m pip install --upgrade pip                              # 更新pip
 
-pip install numpy opencv-python matplotlib tqdm                            # 安装工具包
+pip install numpy pandas opencv-python matplotlib tqdm pillow              # 安装常用工具包
 
 pip install torch torchvision                                              # 安装pytorch
 
