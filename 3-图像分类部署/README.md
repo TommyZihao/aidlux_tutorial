@@ -36,8 +36,6 @@ Pytorch图像分类模型部署-ONNX Runtime本地终端推理：https://www.bil
 
 加入AidLux社群：添加AidLux小助手（微信号：AidLux_Me），回复“子豪兄”，免费加入答疑社群
 
-开发需求：手机APP、微信小程序、网页开发、服务器部署，公众号 人工智能小技巧 回复 定制开发 加东哥微信
-
 两天搞定图像分类毕业设计答疑交流微信群，公众号 人工智能小技巧 回复 图像分类
 
-OpenMMLab算法库，MMClassification（MMPretrain）、MMDeploy大佬交流，加喵喵微信 OpenMMLabwx，备注：来自子豪兄部署教程
+开发需求：手机APP、微信小程序、网页开发、服务器部署，公众号 人工智能小技巧 回复 定制开发 加东哥微信
