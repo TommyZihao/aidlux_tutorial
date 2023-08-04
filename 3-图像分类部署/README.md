@@ -10,8 +10,6 @@
 
 - 远程传输代码文件至手机端
 
-- 安装ONNX、ONNX Runtime
-
 ## 在Jupyter Notebook中运行代码教程
 
 ## 扩展阅读
