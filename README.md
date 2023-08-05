@@ -1,4 +1,4 @@
-# 用AidLux，在安卓手机、ARM设备上部署人工智能算法
+# 用AidLux，在安卓、鸿蒙、高通、ARM设备上部署人工智能算法
 
 作者：同济子豪兄 https://space.bilibili.com/1900783
 
