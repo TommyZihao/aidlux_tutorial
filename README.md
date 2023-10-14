@@ -8,6 +8,8 @@
 
 图像分类部署：https://www.bilibili.com/video/BV1oN411h7p1
 
+语义分割部署：https://www.bilibili.com/video/BV1k8411y7c2
+
 ## 社群
 
 加入AidLux社群：添加AidLux小助手（微信号：AidLux_Me），回复“子豪兄”，免费加入答疑社群
